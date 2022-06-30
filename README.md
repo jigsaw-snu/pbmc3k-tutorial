@@ -1,2 +1,2 @@
-# pmbc3k-tutorial
+# pbmc3k-tutorial
 single cell RNA sequencing analysis tutorial with PBMC3K dataset
